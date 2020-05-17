@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="tes">testing</string>
+    <string name="change_langunage_settings">Translate</string>
+
+    <!--Movies-->
+    <string name="navigation_mymovies">Movies</string>
+    <string name="title_mymovies">Title</string>
+    <string name="poster_mymovies">PosterMovies</string>
+    <string name="overview_mymovies">Overview</string>
+    <string name="release_mymovies">Release</string>
+    <string name="vote_mymovies">Vote</string>
+    <string name="rating_mymovies">Rating</string>
+
+    <!--Tv Show-->
+    <string name="navigation_mytv">Tv Show</string>
+    <string name="name_mytv">Name</string>
+    <string name="poster_mytv">PosterTV</string>
+    <string name="overview_mytv">Overview</string>
+    <string name="release_mytv">Release</string>
+    <string name="vote_mytv">Vote</string>
+    <string name="rating_mytv">Rating</string>
+
+    <!--  Favorit  -->
+    <string name="favorit">Added to Favorites</string>
+    <string name="unfavorit">Remove from Favorites</string>
+
+    <string name="failedfavorit">Failed added to Favorites</string>
+
+
+    <string name="navigationMovies">Film</string>
+    <string name="navigationTV">TV</string>
+    <string name="navigationFavorit">Favorit</string>
+    <string name="changeLanguage">Terjemahkan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

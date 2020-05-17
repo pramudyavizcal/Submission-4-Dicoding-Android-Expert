@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="tes">percobaan</string>
+    <string name="change_langunage_settings">Terjemahkan</string>
+
+    <!--Movies-->
+    <string name="navigation_mymovies">Film</string>
+    <string name="title_mymovies">Judul</string>
+    <string name="poster_mymovies">Poster</string>
+    <string name="overview_mymovies">Deskripsi</string>
+    <string name="release_mymovies">Rilis</string>
+    <string name="vote_mymovies">Pilihan</string>
+    <string name="rating_mymovies">Peringkat</string>
+
+    <!--Tv Show-->
+    <string name="navigation_mytv" >Tv</string>
+    <string name="name_mytv" >Nama</string>
+    <string name="poster_mytv" >Poster</string>
+    <string name="overview_mytv" >Deskripsi</string>
+    <string name="release_mytv" >Rilis</string>
+    <string name="vote_mytv" >Pilihan</string>
+    <string name="rating_mytv" >Peringkat</string>
+
+    <!--  Favorit  -->
+    <string name="favorit">Ditambahkan ke Favorit</string>
+    <string name="unfavorit">Dihapus dari Favorit</string>
+    <string name="failedfavorit">Gagal ditambahkan ke Favorit</string>
+
+    <string name="navigationMovies" >Film</string>
+    <string name="navigationTV" >TV</string>
+    <string name="navigationFavorit">Favorit</string>
+    <string name="changeLanguage" >Terjemahkan</string>
+
+</resources>
